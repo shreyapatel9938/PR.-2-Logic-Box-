@@ -18,3 +18,8 @@ A simple Python program that uses `match-case` to generate star patterns and ana
 
 4. **Error Handling**: 
    * Features a fallback default case (`case _`) to catch invalid menu choices.
+
+## Output:
+
+![Output 1](Output1.png)
+![Output 2](Output2.png)
