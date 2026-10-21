@@ -21,5 +21,5 @@ A simple Python program that uses `match-case` to generate star patterns and ana
 
 ## Output:
 
-![Output 1](Output1.png)
-![Output 2](Output2.png)
+![screenshot 1](Output1.png)
+![screenshot 2](Output2.png)
